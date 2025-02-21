@@ -1,4 +1,4 @@
-# Quantium-Virtual-Internship
+## Quantium Data Analytics Internship
 
 Quantium-Virtual-Internship
 This repository contains my solution to the Quantum Data Analytics Virtual Experience Program on Forage
@@ -14,6 +14,8 @@ Completion certificate link: [Certificate ](https://forage-uploads-prod.s3.amazo
 
 For the past few years, Quantium has shared transactional and consumer data with a significant grocery brand. As a member of the Quantium analytics team, we must provide the business with valuable data analytics and insights to aid in strategic decision-making.
 
+---
+
 ### Task 1: Data preparation and customer analytics
 Analyze your client's transaction dataset and identify customer purchasing behaviors to generate insights and provide commercial recommendations.
 
@@ -25,6 +27,8 @@ Examine customer data – check for similar issues in the customer data, look fo
 
 Deep dive into customer segments – define your recommendation from your insights, determine which segments we should be targeting, if packet sizes are relative, and form an overall conclusion based on your analysis.
 
+---
+
 ### Task 2: Experimentation and uplift testing
 Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
 
@@ -32,7 +36,9 @@ Select-control stores – explore the data and define metrics for your control s
 
 Assessment of the trial – this one should give you some interesting insights into each of the stores, check each trial store individually in comparison with the control store to get a clear view of its overall performance. We want to know if the trial stores were successful or not.
 
-Collate findings – summarise your findings for each store and provide an recommendation that we can share with Julia outlining the impact on sales during the trial period.
+Collate findings – summarise your findings for each store and provide a recommendation that we can share with Julia outlining the impact on sales during the trial period.
+
+---
 
 ### Task 3: Analytics and commercial application
 Use your analytics and insights from Tasks 1 and 2 to prepare a report for your client, the Category Manager.
